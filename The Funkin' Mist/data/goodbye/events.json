@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				109906.542056075,
+				[
+					[
+						"Flash",
+						"2",
+						"0.2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}
