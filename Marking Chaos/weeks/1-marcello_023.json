@@ -1,0 +1,41 @@
+{
+	"storyName": "the break in troll",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "1-marcello",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Comecful",
+			"marcello",
+			[
+				0,
+				0,
+				126
+			]
+		],
+		[
+			"Trollhazard",
+			"marcello",
+			[
+				0,
+				0,
+				126
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

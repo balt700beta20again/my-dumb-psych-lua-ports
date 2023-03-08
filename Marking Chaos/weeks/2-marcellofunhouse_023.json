@@ -1,0 +1,50 @@
+{
+	"storyName": "marcello's fun house!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "marcellosfunhouseweek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Fun-House",
+			"bambi",
+			[
+				44,
+				113,
+				88
+			]
+		],
+		[
+			"Something-Important",
+			"bambi",
+			[
+				44,
+				113,
+				88
+			]
+		],
+		[
+			"Two-Notebooks",
+			"bambi-evil",
+			[
+				44,
+				113,
+				88
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
