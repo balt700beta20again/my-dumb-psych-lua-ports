@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "maevings but awesome idle"
+		},
+		{
+			"offsets": [
+				-10,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "maevings but awesome down"
+		},
+		{
+			"offsets": [
+				-48,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "maevings but awesome right"
+		},
+		{
+			"offsets": [
+				-29,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "maevings but awesome up"
+		},
+		{
+			"offsets": [
+				5,
+				36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "maevings but awesome left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MaevingsJoke",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "MaevingsJoke",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

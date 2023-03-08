@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Maevings Left",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Maevings Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Maevings Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Maevings Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Maevings Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Maevings Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "showyou",
+			"indices": [],
+			"name": "Maevings Show You"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Maevings3d",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Maevings3D",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
