@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"warfare",
+			"joao",
+			[
+				84,
+				84,
+				84
+			]
+		],
+		[
+			"combative",
+			"joaoevil",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "joaobg",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "warning: might crash game",
+	"weekName": "maevingsweek",
+	"freeplayColor": [
+		84,
+		84,
+		84
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

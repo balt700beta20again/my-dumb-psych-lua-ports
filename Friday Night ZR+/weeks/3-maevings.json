@@ -1,0 +1,48 @@
+{
+	"storyName": "funny robo boy",
+	"hideFreeplay": false,
+	"weekBackground": "maevingsbg",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		255,
+		0
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"free wifi",
+			"Maevings",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"dystopia",
+			"MaevingsMad",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"fatality",
+			"Maevings3D",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "maevingsweek"
+}

@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Un-expectancies",
+			"redfong",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Computal Grind",
+			"redfong",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Kowadlo kluty",
+			"redfong",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "redfongbg",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "the red cat but with a twist",
+	"weekName": "redfongweek",
+	"freeplayColor": [
+		255,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

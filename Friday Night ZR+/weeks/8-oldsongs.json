@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"Old Dystopia",
+			"oldmae",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Old Fatality",
+			"oldmae",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		255,
+		255,
+		0
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"beanargue",
+			"Maevings3D-Angy",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"poopoo doody song real no clickbait",
+			"MaevingsJoke",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "cubebg",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "cubical man yeah",
+	"weekName": "cubeweek",
+	"freeplayColor": [
+		255,
+		255,
+		0
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

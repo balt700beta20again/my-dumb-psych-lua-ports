@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"overclocked",
+			"cubepissed",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "cubebg",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "cubical man yeah",
+	"weekName": "cubeweek",
+	"freeplayColor": [
+		255,
+		0,
+		0
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

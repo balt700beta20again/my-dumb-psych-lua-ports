@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"foxnote",
+			"crysta",
+			[
+				52,
+				45,
+				255
+			]
+		],
+		[
+			"serendipity",
+			"crysta",
+			[
+				52,
+				45,
+				255
+			]
+		],
+		[
+			"kitsune",
+			"crysta",
+			[
+				52,
+				45,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "crystabg",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "blue kitsune boi",
+	"weekName": "crystaweek",
+	"freeplayColor": [
+		52,
+		45,
+		255
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

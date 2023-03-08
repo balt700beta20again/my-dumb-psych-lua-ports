@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"cubie",
+			"cube",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"insense",
+			"cubetired",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"fatigue",
+			"cubetired",
+			[
+				0,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "cubebg",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "cubical man yeah",
+	"weekName": "cubeweek",
+	"freeplayColor": [
+		0,
+		255,
+		255
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
