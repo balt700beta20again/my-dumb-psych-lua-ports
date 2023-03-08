@@ -1,0 +1,32 @@
+{
+	"storyName": "friday",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "friday",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"friday",
+		"gf"
+	],
+	"songs": [
+		[
+			"fnfdd",
+			"friday",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
