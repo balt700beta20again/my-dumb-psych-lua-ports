@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "hello who are you ?",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "marcello"
+		},
+		{
+			"expression": "talk",
+			"text": "beepo skeed bo pabeepo skeed bo pa",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "what you challenge me rap battle ?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marcello"
+		},
+		{
+			"expression": "talk",
+			"text": "beeeeepbeeeeep",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "okayyyyy",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marcello"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Nice work!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marcellofunhouse"
+		},
+		{
+			"expression": "talk",
+			"text": "Do not have a second rap battle against me.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marcellofunhouse"
+		},
+		{
+			"expression": "talk",
+			"text": "I am going to do Something Important.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marcellofunhouse"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": ":RGF5IDM3OgoKSSBoYXZlIG1hc3R1cmJhdGVkIHRvIEJveWZyaWVuZCB4IFBpY28gYXJ0IDc0IHRpbWVzIGluIGEgcm93IGFuZCBJIGhhdGUgdGhpcyBwaWN0dXJlLgpUaGlzIHZpZGVvIGNhbiBhbHNvIGJlIGRvd25sb2FkZWQgSGVyZSAoV2FybmluZzogSXQgQ29udGFpbnMgQWR1bHQgQ29udGVudCkgVGhlIHZpZGVvIGlzIGEgY29tcGls:RGF5IDM3OgoKSSBoYXZlIG1hc3R1cmJhdGVkIHRvIEJveWZyaWVuZCB4IFBpY28gYXJ0IDc0IHRpbWVzIGluIGEgcm93IGFuZCBJIGhhdGUgdGhpcyBwaWN0dXJlLgpUaGlzIHZpZGVvIGNhbiBhbHNvIGJlIGRvd25sb2FkZWQgSGVyZSAoV2FybmluZzogSXQgQ29udGFpbnMgQWR1bHQgQ29udGVudCkgVGhlIH\\YXRpb24gb2YgYWxsIG9mIG15IG1hc3R1cmJhdGlvbnMgb2YgY291cnNlIEkgaGF2ZSBkb25lIGYXRpb24gb2YgYWxsIG9mIG15IG1h&&&c3R1cmJhdGlvbnMgb2YgY291cnNlIE\\n",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marEvilFunHouse"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh fubeep",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfFunHouse"
+		}
+	]
+}

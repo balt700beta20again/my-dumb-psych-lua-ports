@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-80,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Joldy note down"
+		},
+		{
+			"offsets": [
+				-86,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Joldy note up"
+		},
+		{
+			"offsets": [
+				-140,
+				-143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Joldy note right"
+		},
+		{
+			"offsets": [
+				-111,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Joldy Idle"
+		},
+		{
+			"offsets": [
+				-19,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Joldy note left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Joldy_sprites",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "joldy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

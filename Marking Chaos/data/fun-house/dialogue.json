@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hello!",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "marcelloFunHouse"
+		},
+		{
+			"expression": "talk",
+			"text": "Welcome to Marcello's Fun House!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marcelloFunHouse"
+		},
+		{
+			"expression": "talk",
+			"text": "Rap against me and I will tell you what to do next!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marcelloFunHouse"
+		}
+	]
+}
